@@ -1,2 +1,7 @@
 Test
+<<<<<<< Updated upstream
 No-Change
+=======
+Change
+aaaa
+>>>>>>> Stashed changes
